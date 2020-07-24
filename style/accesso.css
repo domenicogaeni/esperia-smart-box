@@ -1,0 +1,79 @@
+  #aspetto_login {
+      background-color: rgba(255,255,255,0.8);
+      margin-bottom: 150px;
+      margin-top: 150px;
+      border-radius: 5px;
+      border: 0.75px solid #0275d8;;
+  }
+  #titolo{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #0275d8;
+  }
+  hr{
+    width:80%;
+    margin-top: 0px;
+    margin-bottom:20px;
+    border: 0.75px solid #0275d8;;
+  }
+  #etichetta{
+    text-align: center;
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+  img{
+    width:27px;
+  }
+  button{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width:150px;
+  }
+
+  #problemi {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 17px;
+  }
+
+  #dimenticata
+  {
+    font-size: 17px;
+  }
+
+  #bottone
+  {
+    margin-bottom: 5px;
+  }
+
+  #textbox
+  {
+    margin-top: 10px;
+  }
+
+  a
+  {
+    font-weight: bold;
+  }
+  body
+  {
+    background-color: rgba(25,136,232,0.4);
+    font-family: 'Nunito', sans-serif;
+  }
+  #colora{ color: #0275d8; }
+
+  .casella
+  {
+    text-align: center;
+  }
+
+  #messaggio
+  {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 20px;
+    text-align: center;
+  }
