@@ -3,13 +3,13 @@
   date_default_timezone_set('Europe/Rome');
   // Sito altervista: esperiasmartbox.altervista.org
   // Nome server
-  $servername = "localhost";
+  $servername = "SERVER_NAME";
   // Username
-  $username = "root";
+  $username = "USERNAME";
   // Password
-  $pwd_db="";
+  $pwd_db="PASSWORD";
   // Nome DataBase
-  $database = "my_esperiasmartbox";
+  $database = "DATABASE_NAME";
   // Connessione al DataBase
   $conn = new mysqli($servername, $username, $pwd_db,$database);
   // Definizione della codifica caratteri
